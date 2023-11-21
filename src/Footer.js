@@ -6,7 +6,7 @@ export default function Footer() {
     <div>
       <footer>
         <a
-          href="https://github.com/Zaemah/weather.app"
+          href="https://github.com/Zaemah/react-homework"
           target="_blank"
           rel="noreferrer"
         >
@@ -17,7 +17,7 @@ export default function Footer() {
           Emmah Zanele Mpofu
         </a>
         hosted
-        <a href="https://wonderful-tiramisu-e8fd57.netlify.app" target="_blank" rel="noreferrer">
+        <a href="https://startling-strudel-e47c74.netlify.app/" target="_blank" rel="noreferrer">
           on Netlify
         </a>
       </footer>
