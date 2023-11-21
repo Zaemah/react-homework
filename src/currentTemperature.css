@@ -1,0 +1,50 @@
+.date {
+    font-weight: lighter;
+    font-size: small;
+    font-style: italic;
+    padding: 0 0 0 200px;
+  }
+  .temperature-container {
+    display: flex;
+  }
+  .icon {
+    font-size: 300%;
+    width: 6500;
+  }
+  #description {
+    font-size: medium;
+    word-spacing: 0%;
+    color: lightblue;
+  }
+  
+  .current-temperature {
+    font-size: 250%;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 0 0 0 220px;
+  }
+  @media (max-width: 600px) {
+    .container {
+      width: 100%;
+      height: auto;
+    }
+    .current-city {
+      text-align: left;
+      padding: 30px;
+    }
+    .temperature-container {
+      text-align: left;
+      padding: 20px;
+    }
+    .date {
+      text-align: left;
+      padding: 30px;
+    }
+    .icon {
+      width: 100%;
+      height: auto;
+    }
+    .current-temperature {
+      padding: 20px;
+    }
+  }
+  
